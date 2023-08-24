@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "709136544653",
+    "firebase_url": "https://trail2-ff40f-default-rtdb.firebaseio.com",
+    "project_id": "trail2-ff40f",
+    "storage_bucket": "trail2-ff40f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709136544653:android:829725e63456f8fa2603c4",
+        "android_client_info": {
+          "package_name": "com.example.formulae_iit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709136544653-mn8ns0euanim3a5lopn1it4gguhnqgl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdPPwEAOYRkRdD_YX6qiwt7z4ynXQuU2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709136544653-mn8ns0euanim3a5lopn1it4gguhnqgl4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
